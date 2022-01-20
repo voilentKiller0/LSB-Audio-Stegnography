@@ -20,7 +20,7 @@ Run
 OR
 
 1. Load "Audio Steganography.ipynb" into google colab
-2. Upload cover Imgage into colab folder.
+2. Upload cover audio into colab folder.
 4. Run main function
 
 Output
